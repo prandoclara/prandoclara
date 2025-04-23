@@ -2,7 +2,7 @@
 
 
 **Hello, I'm Clara — @prandoclara**<br>
---------------------------------------  <br><br>
+--------------------------------------  <br><br><br>
 
 Currently: Student at 42  
 Project: Building Transcendance — a fullstack multiplayer app  
@@ -14,7 +14,6 @@ Past life: fashion PR 💅 turned developer 👩‍💻
 
 
 
-<br>
 <br>
 <br>
 <br>
