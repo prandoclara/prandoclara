@@ -14,18 +14,20 @@ Discord: prandoclara
 Past life: fashion PR turned developer
 ```
 <p align="left">
-  <img src="https://placehold.co/30x30/282A36/000000?text=\n" alt="#282A36" />
-  <img src="https://placehold.co/30x30/F8F8F2/000000?text=\n" alt="#F8F8F2" />
-  <img src="https://placehold.co/30x30/8BE9FD/000000?text=\n" alt="#8BE9FD" />
-  <img src="https://placehold.co/30x30/50FA7B/000000?text=\n" alt="#50FA7B" />
-  <img src="https://placehold.co/30x30/FF79C6/000000?text=\n" alt="#FF79C6" />
-  <img src="https://placehold.co/30x30/FFB86C/000000?text=\n" alt="#FFB86C" />
-  <img src="https://placehold.co/30x30/BD93F9/000000?text=\n" alt="#BD93F9" />
-  <img src="https://placehold.co/30x30/FF5555/000000?text=\n" alt="#FF5555" />
-  <img src="https://placehold.co/30x30/F1FA8C/000000?text=\n" alt="#F1FA8C" />
-  <img src="https://placehold.co/30x30/44475A/000000?text=\n" alt="#44475A" />
-  <img src="https://placehold.co/30x30/6272A4/000000?text=\n" alt="#6272A4" />
+  <img src="https://placehold.co/30x30/011627/000000?text=\n" alt="#011627" />
+  <img src="https://placehold.co/30x30/D6DEEB/000000?text=\n" alt="#D6DEEB" />
+  <img src="https://placehold.co/30x30/82AAFF/000000?text=\n" alt="#82AAFF" />
+  <img src="https://placehold.co/30x30/7FDBCA/000000?text=\n" alt="#7FDBCA" />
+  <img src="https://placehold.co/30x30/C792EA/000000?text=\n" alt="#C792EA" />
+  <img src="https://placehold.co/30x30/22DA6E/000000?text=\n" alt="#22DA6E" />
+  <img src="https://placehold.co/30x30/ECC48D/000000?text=\n" alt="#ECC48D" />
+  <img src="https://placehold.co/30x30/B2BFFC/000000?text=\n" alt="#B2BFFC" />
+  <img src="https://placehold.co/30x30/5DE4C7/000000?text=\n" alt="#5DE4C7" />
+  <img src="https://placehold.co/30x30/1D3B53/000000?text=\n" alt="#1D3B53" />
 </p>
+
+
+
 
 
 
