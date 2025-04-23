@@ -9,17 +9,16 @@ Email : prandoclara.inbox@gmail.com
 Location: Paris, FR  
 Discord: prandoclara  
 Past life: fashion PR 💅 turned developer 👩‍💻  
-<br>
 
 <p align="center">
-  <img src="https://placehold.co/40x40/011627/000000?text=\n" alt="#011627" />
-  <img src="https://placehold.co/40x40/82AAFF/000000?text=\n" alt="#82AAFF" width="40" height="40"/>
-  <img src="https://placehold.co/40x40/7FDBCA/000000?text=\n" alt="#7FDBCA" width="40" height="40"/>
-  <img src="https://placehold.co/40x40/C792EA/000000?text=\n" alt="#C792EA" width="40" height="40"/>
-  <img src="https://placehold.co/40x40/ECC48D/000000?text=\n" alt="#ECC48D" width="40" height="40"/>
-  <img src="https://placehold.co/40x40/22DA6E/000000?text=\n" alt="#22DA6E" width="40" height="40"/>
+  <img src="https://placehold.co/40x40/282A36/000000?text=\n" />
+  <img src="https://placehold.co/40x40/F8F8F2/000000?text=\n" />
+  <img src="https://placehold.co/40x40/8BE9FD/000000?text=\n" />
+  <img src="https://placehold.co/40x40/50FA7B/000000?text=\n" />
+  <img src="https://placehold.co/40x40/FF79C6/000000?text=\n" />
+  <img src="https://placehold.co/40x40/FFB86C/000000?text=\n" />
+  <img src="https://placehold.co/40x40/BD93F9/000000?text=\n" />
 </p>
-
 
 
 <br>
