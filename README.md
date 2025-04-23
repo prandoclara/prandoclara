@@ -8,6 +8,8 @@ Email : prandoclara.inbox@gmail.com
 Location: Paris, FR  
 Discord: prandoclara  
 Past life: fashion PR 💅 turned developer 👩‍💻  
+<br>
+<br>
 <p>
   <img alt="FFFFFF" src="https://placehold.co/140x40/FFFFFF/000000?text=\n" width="50" height="40" />
   <img alt="D9D9D9" src="https://placehold.co/140x40/D9D9D9/000000?text=\n" width="50" height="40"/>
