@@ -1,7 +1,7 @@
 <img align="left" src="./assets/42.jpg" alt="bruh" width="438" /> 
 
 <strong>Hello, I'm Clara — @prandoclara</stong><br>
----------------------------------------- <br>
+---------------------------------------- <br><br>
 Currently: Student at 42  
 Project: Building Transcendance   
 Status: Looking for a dev internship  
@@ -9,7 +9,8 @@ Email : prandoclara.inbox@gmail.com
 Location: Paris, FR  
 Discord: prandoclara  
 Past life: fashion PR 💅 turned developer 👩‍💻  
-
+<br>
+<br>
 <p>
   <img alt="FFFFFF" src="https://placehold.co/140x40/FFFFFF/000000?text=\n" width="50" height="40" />
   <img alt="D9D9D9" src="https://placehold.co/140x40/D9D9D9/000000?text=\n" width="50" height="40"/>
