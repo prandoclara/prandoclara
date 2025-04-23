@@ -3,7 +3,7 @@
 <strong>Hello, I'm Clara — @prandoclara</stong><br>
 ---------------------------------------- <br>
 Currently: Student at 42  
-Project: Building Transcendance — a fullstack multiplayer app  
+Project: Building Transcendance   
 Status: Looking for a dev internship  
 Email : prandoclara.inbox@gmail.com  
 Location: Paris, FR  
