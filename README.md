@@ -1,4 +1,4 @@
-<img align="left" src="./assets/42.jpg" alt="bruh" width="430" /> 
+<img align="left" src="./assets/42.jpg" alt="bruh" width="433" /> 
 
 
 <strong>Hello, I'm Clara — @prandoclara</stong><br>
