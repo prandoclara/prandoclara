@@ -1,4 +1,5 @@
 <img align="left" src="./assets/42.jpg" alt="bruh" width="428" /> 
+
 <strong>Hello, I'm Clara — @prandoclara</stong><br>
 ---------------------------------------- <br>
 Currently: Student at 42  
