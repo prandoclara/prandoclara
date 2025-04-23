@@ -1,4 +1,4 @@
-<img align="left" src="./assets/42.jpg" alt="bruh" width="400" /> 
+<img align="left" src="./assets/42.jpg" alt="bruh" width="430" /> 
 
 
 <strong>Hello, I'm Clara — @prandoclara</stong><br>
@@ -11,11 +11,11 @@ Location: Paris, FR
 Discord: prandoclara  
 Past life: fashion PR 💅 turned developer 👩‍💻  
 <p>
-  <img alt="FFFFFF" src="https://placehold.co/140x40/FFFFFF/000000?text=\n" width="80" height="40" />
-  <img alt="D9D9D9" src="https://placehold.co/140x40/D9D9D9/000000?text=\n" width="80" height="40"/>
-  <img alt="A6A6A6" src="https://placehold.co/140x40/A6A6A6/000000?text=\n" width="80" height="40"/>
-  <img alt="4D4D4D" src="https://placehold.co/140x40/4D4D4D/000000?text=\n" width="80" height="40"/>
-  <img alt="000000" src="https://placehold.co/140x40/000000/FFFFFF?text=\n" width="80" height="40"/>
+  <img alt="FFFFFF" src="https://placehold.co/140x40/FFFFFF/000000?text=\n" width="50" height="40" />
+  <img alt="D9D9D9" src="https://placehold.co/140x40/D9D9D9/000000?text=\n" width="50" height="40"/>
+  <img alt="A6A6A6" src="https://placehold.co/140x40/A6A6A6/000000?text=\n" width="50" height="40"/>
+  <img alt="4D4D4D" src="https://placehold.co/140x40/4D4D4D/000000?text=\n" width="50" height="40"/>
+  <img alt="000000" src="https://placehold.co/140x40/000000/FFFFFF?text=\n" width="50" height="40"/>
 </p>
 
 
