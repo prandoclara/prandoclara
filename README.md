@@ -1,5 +1,5 @@
 
-<img align="left" src="./assets/42.jpg" alt="bruh" width="428" />
+<img align="left" src="./assets/42.jpg" alt="bruh" width="400" />
 <!-- ![cropped_wall](https://github.com/nyzss/nyzss/assets/81782738/8c6c6423-83b4-4eb5-81e4-14cc7ac773c9) -->
 
 ```console
@@ -16,13 +16,13 @@ Past life: fashion PR 💅 turned developer 👩‍💻
 
 <br>
 <p align="left">
-  <img src="https://placehold.co/40x40/282A36/000000?text=\n" />
-  <img src="https://placehold.co/40x40/F8F8F2/000000?text=\n" />
-  <img src="https://placehold.co/40x40/8BE9FD/000000?text=\n" />
-  <img src="https://placehold.co/40x40/50FA7B/000000?text=\n" />
-  <img src="https://placehold.co/40x40/FF79C6/000000?text=\n" />
-  <img src="https://placehold.co/40x40/FFB86C/000000?text=\n" />
-  <img src="https://placehold.co/40x40/BD93F9/000000?text=\n" />
+  <img src="https://placehold.co/300x30/282A36/000000?text=\n" />
+  <img src="https://placehold.co/30x30/F8F8F2/000000?text=\n" />
+  <img src="https://placehold.co/30x30/8BE9FD/000000?text=\n" />
+  <img src="https://placehold.co/30x30/50FA7B/000000?text=\n" />
+  <img src="https://placehold.co/30x30/FF79C6/000000?text=\n" />
+  <img src="https://placehold.co/30x30/FFB86C/000000?text=\n" />
+  <img src="https://placehold.co/30x30/BD93F9/000000?text=\n" />
 </p>
 
 
