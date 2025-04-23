@@ -14,7 +14,7 @@ Discord: prandoclara
 Past life: fashion PR turned developer
 ```
 <p align="left">
-  <img src="https://placehold.co/30x30/011627/000000?text=\n" alt="#011627" />
+  <img src="https://placehold.co/30x30/10384F/000000?text=\n" alt="#011627" />
   <img src="https://placehold.co/30x30/D6DEEB/000000?text=\n" alt="#D6DEEB" />
   <img src="https://placehold.co/30x30/82AAFF/000000?text=\n" alt="#82AAFF" />
   <img src="https://placehold.co/30x30/7FDBCA/000000?text=\n" alt="#7FDBCA" />
