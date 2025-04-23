@@ -4,7 +4,7 @@
 ---------------------------------------- <br>
 Currently: Student at 42  
 Project: Building Transcendance — a fullstack multiplayer app  
-Status: Looking for a dev internship
+Status: Looking for a dev internship  
 Email : prandoclara.inbox@gmail.com  
 Location: Paris, FR  
 Discord: prandoclara  
