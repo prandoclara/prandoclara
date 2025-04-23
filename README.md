@@ -2,7 +2,7 @@
 <img align="left" src="./assets/42.jpg" alt="bruh" width="400" />
 
 Hello, I'm Clara - @prandoclara
----------------------------------------- 
+---------------------------------------- <br>
 ```console
 
 Currently: Student at 42  
@@ -11,7 +11,7 @@ Status: Looking for a dev internship
 Email : prandoclara.inbox@gmail.com  
 Location: Paris, FR  
 Discord: prandoclara  
-Past life: fashion PR 💅 turned developer 👩‍💻
+Past life: fashion PR turned developer
 ```
 <p align="left">
   <img src="https://placehold.co/30x30/282A36/000000?text=\n" />
