@@ -1,5 +1,5 @@
 
-<img align="left" src="./assets/42.jpg" alt="bruh" width="400" />
+<img align="left" src="./assets/42.jpg" alt="bruh" width="405" />
 
 Hello, I'm Clara - @prandoclara  
 ---------------------------------------- <br>
