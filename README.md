@@ -1,14 +1,19 @@
-<img align="left" src="./assets/42.jpg" alt="bruh" width="428" /> 
 
-<strong>Hello, I'm Clara — @prandoclara</stong><br>
----------------------------------------- <br>
+<img align="left" src="./assets/42.jpg" alt="bruh" width="428" />
+<!-- ![cropped_wall](https://github.com/nyzss/nyzss/assets/81782738/8c6c6423-83b4-4eb5-81e4-14cc7ac773c9) -->
+
+```console
+Hello, I'm Clara - @prandoclara
+---------------------------------------- 
 Currently: Student at 42  
 Project: Building Transcendance   
 Status: Looking for a dev internship  
 Email : prandoclara.inbox@gmail.com  
 Location: Paris, FR  
 Discord: prandoclara  
-Past life: fashion PR 💅 turned developer 👩‍💻  
+Past life: fashion PR 💅 turned developer 👩‍💻
+```
+
 <br>
 <p align="left">
   <img src="https://placehold.co/40x40/282A36/000000?text=\n" />
