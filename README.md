@@ -1,7 +1,7 @@
 
-<img align="left" src="./assets/42.jpg" alt="bruh" width="405" />
+<img align="left" src="./assets/42.jpg" alt="bruh" width="409" />
 
-Hello, I'm Clara - @prandoclara  
+<strong>Hello, I'm Clara - @prandoclara</strong>  
 ---------------------------------------- <br>
 ```console
 
