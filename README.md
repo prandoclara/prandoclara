@@ -1,4 +1,4 @@
-<img align="left" src="./assets/42.jpg" alt="bruh" width="433" /> 
+<img align="left" src="./assets/42.jpg" alt="bruh" width="428" /> 
 
 <strong>Hello, I'm Clara — @prandoclara</stong><br>
 ---------------------------------------- <br><br>
@@ -10,7 +10,7 @@ Location: Paris, FR
 Discord: prandoclara  
 Past life: fashion PR 💅 turned developer 👩‍💻  
 
-<p align="center">
+<p align="left">
   <img src="https://placehold.co/40x40/282A36/000000?text=\n" />
   <img src="https://placehold.co/40x40/F8F8F2/000000?text=\n" />
   <img src="https://placehold.co/40x40/8BE9FD/000000?text=\n" />
