@@ -1,8 +1,8 @@
 <img align="left" src="./assets/2.png" alt="bruh" width="250" /> 
 
 
-**Hello, I'm Clara — @prandoclara**<br>
---------------------------------------  <br><br><br>
+<strong>Hello, I'm Clara — @prandoclara</stong><br>
+-------------------------------------------------------------------------- <br><br><br>
 
 Currently: Student at 42  
 Project: Building Transcendance — a fullstack multiplayer app  
@@ -11,7 +11,6 @@ Email : prandoclara.inbox@gmail.com
 Location: Paris, FR  
 Discord: prandoclara  
 Past life: fashion PR 💅 turned developer 👩‍💻  
-
 
 
 <br>
