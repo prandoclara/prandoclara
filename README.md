@@ -1,6 +1,4 @@
 <img align="left" src="./assets/42.jpg" alt="bruh" width="438" /> 
-
-
 <strong>Hello, I'm Clara — @prandoclara</stong><br>
 ---------------------------------------- <br>
 Currently: Student at 42  
@@ -18,9 +16,8 @@ Past life: fashion PR 💅 turned developer 👩‍💻
   <img alt="000000" src="https://placehold.co/140x40/000000/FFFFFF?text=\n" width="50" height="40"/>
 </p>
 
+<br>
 
-<br>
-<br>
 
   ---  
 
