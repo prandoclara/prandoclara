@@ -1,28 +1,31 @@
-<h3 align="center"><strong>👋 Hello, I'm Clara — @prandoclara</strong></h3>
-
----
+<img align="left" src="./assets/2.png" alt="bruh" width="250" /> 
 
 
-### 👩‍💻 Projects from the 42 Paris Common Core I’ve completed :
+**Hello, I'm Clara — @prandoclara**<br>
+--------------------------------------  <br><br>
 
-<a href="https://github.com/prandoclara/libft.git"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="90" height="90"/></a>
-<img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/born2berootm.png" alt="42 badge born2beroot" width="90" height="90"/></a>
-<a href="https://github.com/prandoclara/ft_printf"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/ft_printfe.png" alt="42 badge ft_printf" width="90" height="90"/></a>
-<a href="https://github.com/prandoclara/get_next_line"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/get_next_linem.png" alt="42 badge get_next_line" width="90" height="90"/></a>
-<a href="https://github.com/prandoclara/so_long"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/so_longe.png" alt="42 badge so_long" width="90" height="90"/></a>
-<a href="https://github.com/prandoclara/pipex"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/pipexm.png" alt="42 badge pipex" width="90" height="90"/></a>
-<a href="https://github.com/prandoclara/push_swap"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/push_swape.png" alt="42 badge push_swap" width="90" height="90"/></a>
-<a href="https://github.com/prandoclara/philosophers"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/philosopherse.png" alt="42 badge philosopher" width="90" height="90"/></a>
-<a href="https://github.com/prandoclara/minishell"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/minishelle.png" alt="42 badge minshell" width="90" height="90"/></a>
-<img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/netpracticee.png" alt="42 badge netpractice" width="90" height="90"/></a>
-<a href="https://github.com/prandoclara/cub3d"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/cub3dm.png" alt="42 badge cub3d" width="90" height="90"/></a>
-<a href="https://github.com/prandoclara/cpp"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/cppm.png" alt="42 badge cpp" width="90" height="90"/></a>
-<a href="https://github.com/ohbamah/ft_irc"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/ft_ircm.png" alt="42 badge IRC" width="90" height="90"/></a>
-<a href="https://github.com/prandoclara/inception"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/inceptionm.png" alt="42 badge Inception" width="90" height="90"/></a>
+Currently: Student at 42  
+Project: Building Transcendance — a fullstack multiplayer app  
+Status: Looking for a dev internship (Fullstack / Devops)  
+Email : prandoclara.inbox@gmail.com  
+Location: Paris, FR  
+Discord: prandoclara  
+Past life: fashion PR 💅 turned developer 👩‍💻  
 
-### 🚧 Work in progress :
+<br>
+<br>
+<p>
+  <img alt="FCF4CF" src="https://placehold.co/140x40/FCF4CF/000000?text=\n" width="140" height="40" />
+  <img alt="FDAA5F" src="https://placehold.co/140x40/FDAA5F/000000?text=\n" width="140" height="40"/>
+  <img alt="F98AAD" src="https://placehold.co/140x40/F98AAD/000000?text=\n" width="140" height="40"/>
+  <img alt="AEE4F8" src="https://placehold.co/140x40/AEE4F8/000000?text=\n" width="140" height="40"/>
+  <img alt="020080" src="https://placehold.co/140x40/020080/000000?text=\n" width="140" height="40"**/>
+</p>  
 
-<img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/ft_transcendencem.png" alt="42 badge Transcendence" width="90" height="90"/></a>
+<br>
+<br>
+
+  ---  
 
 ### About me :
 
@@ -45,15 +48,35 @@
 - Building products with purpose and personality
 
 🏓 Outside the screen:
-I love beautiful interfaces, real teamwork, and a good tech doc. And yes, I still keep an eye on fashion trends 👠✨
+I love beautiful interfaces, real teamwork, and a good tech doc. And yes, I still keep an eye on fashion trends ✨
 
-💌 Connect with me:
+### Connect with me:
 
 📫 Wanna say hi or collaborate? Reach out anytime via 
 <a href="mailto:prandoclara.inbox@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="email" height="20" width="30" /></a> or <a href="https://linkedin.com/in/prandoclara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prandoclara" height="20" width="30" /></a> or <a href="https://instagram.com/prandoclara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prandoclara" height="20" width="30" /></a> or <a href="https://discord.gg/prandoclara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prandoclara" height="20" width="30" /></a>
 
 ---
 
-![42](./assets/42.jpg)
+<h3 align="center">👩‍💻 Projects from the 42 Paris Common Core I’ve completed :</h3>
+<p align="center">
+<a href="https://github.com/prandoclara/libft.git"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="90" height="90"/></a>
+<img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/born2berootm.png" alt="42 badge born2beroot" width="90" height="90"/></a>
+<a href="https://github.com/prandoclara/ft_printf"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/ft_printfe.png" alt="42 badge ft_printf" width="90" height="90"/></a>
+<a href="https://github.com/prandoclara/get_next_line"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/get_next_linem.png" alt="42 badge get_next_line" width="90" height="90"/></a>
+<a href="https://github.com/prandoclara/so_long"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/so_longe.png" alt="42 badge so_long" width="90" height="90"/></a>
+<a href="https://github.com/prandoclara/pipex"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/pipexm.png" alt="42 badge pipex" width="90" height="90"/></a>
+<a href="https://github.com/prandoclara/push_swap"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/push_swape.png" alt="42 badge push_swap" width="90" height="90"/></a>
+<a href="https://github.com/prandoclara/philosophers"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/philosopherse.png" alt="42 badge philosopher" width="90" height="90"/></a>
+<a href="https://github.com/prandoclara/minishell"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/minishelle.png" alt="42 badge minshell" width="90" height="90"/></a>
+<img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/netpracticee.png" alt="42 badge netpractice" width="90" height="90"/></a>
+<a href="https://github.com/prandoclara/cub3d"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/cub3dm.png" alt="42 badge cub3d" width="90" height="90"/></a>
+<a href="https://github.com/prandoclara/cpp"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/cppm.png" alt="42 badge cpp" width="90" height="90"/></a>
+<a href="https://github.com/ohbamah/ft_irc"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/ft_ircm.png" alt="42 badge IRC" width="90" height="90"/></a>
+<a href="https://github.com/prandoclara/inception"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/inceptionm.png" alt="42 badge Inception" width="90" height="90"/></a>
+</p>
 
----
+
+<h3 align="center">🚧 Work in progress :</h3>
+<p align="center">
+<img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/ft_transcendencem.png" alt="42 badge Transcendence" width="90" height="90"/></a>
+</p>
