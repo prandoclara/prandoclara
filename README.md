@@ -10,13 +10,17 @@ Location: Paris, FR
 Discord: prandoclara  
 Past life: fashion PR 💅 turned developer 👩‍💻  
 <br>
-<p>
-  <img alt="FFFFFF" src="https://placehold.co/140x40/FFFFFF/000000?text=\n" width="50" height="40" />
-  <img alt="D9D9D9" src="https://placehold.co/140x40/D9D9D9/000000?text=\n" width="50" height="40"/>
-  <img alt="A6A6A6" src="https://placehold.co/140x40/A6A6A6/000000?text=\n" width="50" height="40"/>
-  <img alt="4D4D4D" src="https://placehold.co/140x40/4D4D4D/000000?text=\n" width="50" height="40"/>
-  <img alt="000000" src="https://placehold.co/140x40/000000/FFFFFF?text=\n" width="50" height="40"/>
+
+<p align="center">
+  <img src="https://placehold.co/40x40/011627/000000?text=\n" alt="#011627" />
+  <img src="https://placehold.co/40x40/82AAFF/000000?text=\n" alt="#82AAFF" width="40" height="40"/>
+  <img src="https://placehold.co/40x40/7FDBCA/000000?text=\n" alt="#7FDBCA" width="40" height="40"/>
+  <img src="https://placehold.co/40x40/C792EA/000000?text=\n" alt="#C792EA" width="40" height="40"/>
+  <img src="https://placehold.co/40x40/ECC48D/000000?text=\n" alt="#ECC48D" width="40" height="40"/>
+  <img src="https://placehold.co/40x40/22DA6E/000000?text=\n" alt="#22DA6E" width="40" height="40"/>
 </p>
+
+
 
 <br>
 
