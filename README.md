@@ -16,7 +16,6 @@ Past life: fashion PR 💅 turned developer 👩‍💻
 <br>
 <p>
   <img alt="FCF4CF" src="https://placehold.co/140x40/FCF4CF/000000?text=\n" width="100" height="40" />
-  <img alt="FDAA5F" src="https://placehold.co/140x40/FDAA5F/000000?text=\n" width="100" height="40"/>
   <img alt="F98AAD" src="https://placehold.co/140x40/F98AAD/000000?text=\n" width="100" height="40"/>
   <img alt="AEE4F8" src="https://placehold.co/140x40/AEE4F8/000000?text=\n" width="100" height="40"/>
   <img alt="020080" src="https://placehold.co/140x40/020080/000000?text=\n" width="100" height="40"**/>
