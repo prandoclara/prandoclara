@@ -1,9 +1,9 @@
-<img align="left" src="./assets/2.png" alt="bruh" width="250" /> 
+<img align="left" src="./assets/42.jpg" alt="bruh" width="500" /> 
 
 
 <strong>Hello, I'm Clara — @prandoclara</stong><br>
--------------------------------------------------------------------------- <br><br><br>
-
+---------------------------------------- <br>
+<br>
 Currently: Student at 42  
 Project: Building Transcendance — a fullstack multiplayer app  
 Status: Looking for a dev internship (Fullstack / Devops)  
@@ -11,18 +11,17 @@ Email : prandoclara.inbox@gmail.com
 Location: Paris, FR  
 Discord: prandoclara  
 Past life: fashion PR 💅 turned developer 👩‍💻  
-
-
 <br>
 <br>
 <br>
 <p>
-  <img alt="FCF4CF" src="https://placehold.co/140x40/FCF4CF/000000?text=\n" width="80" height="40" />
-  <img alt="FDAA5F" src="https://placehold.co/140x40/FDAA5F/000000?text=\n" width="80" height="40"/>
-  <img alt="F98AAD" src="https://placehold.co/140x40/F98AAD/000000?text=\n" width="80" height="40"/>
-  <img alt="AEE4F8" src="https://placehold.co/140x40/AEE4F8/000000?text=\n" width="80" height="40"/>
-  <img alt="020080" src="https://placehold.co/140x40/020080/000000?text=\n" width="80" height="40"**/>
-</p>  
+  <img alt="FFFFFF" src="https://placehold.co/140x40/FFFFFF/000000?text=\n" width="80" height="40" />
+  <img alt="D9D9D9" src="https://placehold.co/140x40/D9D9D9/000000?text=\n" width="80" height="40"/>
+  <img alt="A6A6A6" src="https://placehold.co/140x40/A6A6A6/000000?text=\n" width="80" height="40"/>
+  <img alt="4D4D4D" src="https://placehold.co/140x40/4D4D4D/000000?text=\n" width="80" height="40"/>
+  <img alt="000000" src="https://placehold.co/140x40/000000/FFFFFF?text=\n" width="80" height="40"/>
+</p>
+
 
 <br>
 <br>
