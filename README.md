@@ -1,7 +1,7 @@
 
 <img align="left" src="./assets/42.jpg" alt="bruh" width="400" />
 
-Hello, I'm Clara - @prandoclara
+Hello, I'm Clara - @prandoclara  
 ---------------------------------------- <br>
 ```console
 
