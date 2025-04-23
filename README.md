@@ -1,10 +1,10 @@
 
 <img align="left" src="./assets/42.jpg" alt="bruh" width="400" />
 
-
-```console
 Hello, I'm Clara - @prandoclara
 ---------------------------------------- 
+```console
+
 Currently: Student at 42  
 Project: Building Transcendance   
 Status: Looking for a dev internship  
@@ -13,8 +13,6 @@ Location: Paris, FR
 Discord: prandoclara  
 Past life: fashion PR 💅 turned developer 👩‍💻
 ```
-
-<br>
 <p align="left">
   <img src="https://placehold.co/30x30/282A36/000000?text=\n" />
   <img src="https://placehold.co/30x30/F8F8F2/000000?text=\n" />
