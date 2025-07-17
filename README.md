@@ -6,9 +6,9 @@
 ```console
 
 Currently: Student at 42  
-Project: Building Transcendance   
-Status: Looking for a dev internship  
-Email : prandoclara.inbox@gmail.com  
+Project: Building Matcha   
+Status: Looking for a Software engineer Fullstack internship 
+Email : prando.c@live.fr  
 Location: Paris, FR  
 Discord: prandoclara  
 Past life: fashion PR turned developer
@@ -38,8 +38,12 @@ Past life: fashion PR turned developer
 
 ### About me :
 
-🎓 I'm currently a student at **42 Paris**, where I'm about to complete the **core curriculum** after an intense year of coding, debugging, and growth.  
-🚀 I'm currently working on my final project, **Transcendance**, a full-stack multiplayer app that puts all my skills to the test.
+🎓 I'm currently a student at **42 Paris**, where I'm about to complete the **core curriculum** after an intense year of coding, debugging, and growth.
+
+✅ I successfully completed Transcendance, a full-stack multiplayer web app built with a microservices architecture.
+
+🚧 I'm now working on Matcha, a dating app project focused on user interactions, matching logic, and real-time features.
+
 
 💼 Before diving into tech, I spent several years in **communications and public relations**, working as a **press officer** for fashion and lifestyle brands. I handled everything from media strategy and influencer campaigns to event coordination and press coverage. It taught me how to juggle pressure, collaborate with different stakeholders, and stay relentlessly organized — skills I now apply in every line of code I write.
 
@@ -52,7 +56,7 @@ Past life: fashion PR turned developer
 - Adaptability and fast learning — proved by completing 42’s core in 1 year
 
 🛠️ Currently into:
-- Full-stack web development (React, Node.js, PostgreSQL, Docker)
+- Full-stack web development (React, Node.js, PostgreSQL, Docker, FastAPI)
 - TypeScript, API integration, modern UI/UX
 - Building products with purpose and personality
 
@@ -82,10 +86,5 @@ I love beautiful interfaces, real teamwork, and a good tech doc. And yes, I stil
 <a href="https://github.com/prandoclara/cpp"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/cppm.png" alt="42 badge cpp" width="90" height="90"/></a>
 <a href="https://github.com/ohbamah/ft_irc"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/ft_ircm.png" alt="42 badge IRC" width="90" height="90"/></a>
 <a href="https://github.com/prandoclara/inception"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/inceptionm.png" alt="42 badge Inception" width="90" height="90"/></a>
-</p>
-
-
-<h3 align="center">🚧 Work in progress :</h3>
-<p align="center">
 <img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/ft_transcendencem.png" alt="42 badge Transcendence" width="90" height="90"/></a>
 </p>
