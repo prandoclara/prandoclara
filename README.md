@@ -38,7 +38,7 @@ Past life: fashion PR turned developer
 
 ### About me :
 
-🎓 I'm currently a student at **42 Paris**, where I'm about to complete the **core curriculum** after an intense year of coding, debugging, and growth.
+🎓 I'm a student at **42 Paris**, having recently completed the core curriculum after a year of intensive coding, debugging, and continuous learning.
 
 ✅ I successfully completed Transcendance, a full-stack multiplayer web app built with a microservices architecture.
 
