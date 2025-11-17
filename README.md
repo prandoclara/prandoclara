@@ -7,9 +7,8 @@
 
 Currently: Student at 42  
 Project: Piscine Data Science 
-Status: Looking for a Data Engineer internship 
 Email : prando.c@live.fr  
-Location: Paris, FR  
+Location: Megève, FR  
 Discord: prandoclara  
 Past life: fashion PR turned developer
 ```
@@ -88,6 +87,7 @@ I love beautiful interfaces, real teamwork, and a good tech doc. And yes, I stil
 <a href="https://github.com/prandoclara/inception"><img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/inceptionm.png" alt="42 badge Inception" width="90" height="90"/></a>
 <img src="https://github.com/prandoclara/42-project-badges/blob/main/badges/ft_transcendencem.png" alt="42 badge Transcendence" width="90" height="90"/></a>
 </p>
+
 
 
 
